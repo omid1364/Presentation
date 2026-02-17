@@ -1,0 +1,9 @@
+#+title: Presentation 
+#+options: num:nil
+* Preamble :noexport:
+Remember to export this prior to committing a new version
+[[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
+* Lecture slides
+- [[./intro/intro.html][intro]]
+
+
