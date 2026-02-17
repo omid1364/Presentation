@@ -1,7 +1,5 @@
 #+title: Presentation 
 #+options: num:nil
-* Preamble :noexport:
-[[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 - [[intro/intro.html][intro]]
 
 
